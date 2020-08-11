@@ -1,0 +1,2 @@
+# IA_Magnetic_Resonance_Imaging
+Inteligência Artificial em Ressonância Magnética
